@@ -2,6 +2,7 @@ package rva;
 
 import java.util.ArrayList;
 
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -18,9 +19,9 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class Swagger {
 
 	public static final Contact DEFAULT_CONTACT = new Contact(
-            "Saša Ilić", 
-            "https://github.com/Razvoj-viseslojnih-aplikacija-2021-2022/rva-project-IT4-2019-Sasa-Ilic",
-            "ilic.it4.2019@uns.ac.rs"
+            "Luka Božanić", 
+            "https://github.com/Razvoj-viseslojnih-aplikacija-2021-2022/rva-project-IT4-2019-lukabozanic",
+            "bozanic.it16.2019@uns.ac.rs"
     );
 	
 	 @SuppressWarnings("rawtypes")
